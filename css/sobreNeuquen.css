@@ -1,9 +1,9 @@
 /*SOBRE NEUQUÉN*/
 
 .sobreNeuquen {
-    font-size: 40px;
+    font-size: 30px;
     text-align: center;
-    color: rgb(121, 48, 0);
+    color: grey;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -164,7 +164,7 @@
 @media (min-width: 768px) {
 
     .sobreNeuquen {
-        font-size: 60px;
+        font-size: 50px;
     }
 
     .divubicacion {
@@ -270,7 +270,7 @@
 @media (min-width: 990px) {
 
     .sobreNeuquen {
-       font-size: 85px;
+       font-size: 70px;
     }
 
     .divubicacion {
